@@ -2,7 +2,7 @@
 
 ## Description
 
-THis is a short description of this project and why it was created
+This is a short description of this project and why it was created
 
 This project was created as the initial stepping stone into coding cootcamp
 it exists to assist the student in organizing and optimizing notes, tips, and various functions to be covered later
